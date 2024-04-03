@@ -24,7 +24,7 @@ Titlu: PLATFORMA WEB PENTRU IDENTIFICAREA AREALULUI UNEI CULTURI AGRICOLE SPECIF
 ![image7](https://github.com/owidiu/Proiect-Licenta/assets/88166707/168b57fc-43c0-4846-882a-961369a3cd0e)
 
     Hartă detaliată a județelor din România
-![image8-harta](https://github.com/owidiu/Proiect-Licenta/assets/88166707/5bd1b601-19b
+Harta interactiva a Romaniei unde utilizatorul va putea selecta judetul dorit iar in partea dreapta vor fi afisate informatii generale despre judet
 ![image8-harta-brasov](https://github.com/owidiu/Proiect-Licenta/assets/88166707/7c28f1ff-3544-4074-8fef-d437e752fc52)
 f-475e-a7b1-ef89af899411)
 
