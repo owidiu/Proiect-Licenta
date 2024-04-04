@@ -1,0 +1,11 @@
+import express from "express";
+import { getUser, getDashboardStats } from "../controllers/general.js";
+import { login, signup, confirmAccount, logout } from "../controllers/auth.js";
+const router = express.Router();
+router.get("/user/:id", getUser);
+router.get("/dashboard", getDashboardStats);
+router.post("/signup", signup);
+router.post("/login", login);
+router.get("/confirm/:token", confirmAccount);
+router.post("/logout", logout);
+export default router;
